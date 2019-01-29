@@ -1,0 +1,160 @@
+{
+  "settings": {
+    "name": "Site-01-20_2110",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "uniqCompNum": 4,
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/1-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/2-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/3-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5b.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/5b-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/4-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/6-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/7b.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/7b-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/9.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/9-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/10.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/10-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/11.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/11-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/12.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/12-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/13.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/13-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/14.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/14-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/15.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/15-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/17.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/17-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/18.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/18-640x360.gif",
+                "alt": "",
+                "title": "",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1"
+        }
+      ]
+    }
+  }
+}
